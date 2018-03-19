@@ -1,27 +1,58 @@
+body{
+	background-image: url("tumblr__background_gif_by_chartfish-d8aiscn.gif");
+	background-position: center;
+	margin-right: 10%;
+	margin-left: 10%;
+
+}
+
 .one{
 	border-style: solid;
-	border-width:5px;
-	border-color:green;
+	border-width:10px;
+	border-color:white;
+	background-color: white;
 
 }
 .two{
+
 	border-style: solid;
-	border-width:5px;
-	border-color: red;
+	border-color:  #C2E9E9;
+	background-color: #A8F0F0;
+    border-collapse: separate;
+	border-spacing: 10px;
+	text-align: right;
+
+	
+	
 }
+img{
+	float: right;
+
+}
+
 .yellow{
 	border-style: solid;
 	border-width:5px;
-	border-color: yellow;
+	border-color:  #C2E9E9;
+	border-collapse: separate;
+    border-spacing: 15px 50px;
+    
 
 }
 .blue{
+	overflow: auto;
+	padding: 5px;
+	margin-top: 10px;
 	border-style:solid;
-	border-width: 5px;
-	border-color:blue;
+	background-color:#E8FBFB;
+	border-width: 4px;
+	
+    
+	border-color: #C2E9E9;
 }
 .purple{
-	border-style:solid;
-	border-width: 5px;
-	border-color:purple;
+	border-spacing: 10px;
+	border-bottom-style:dashed;
+	border-width: 2px;
+	border-color:#C2E9E9;
 }
